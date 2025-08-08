@@ -26,8 +26,8 @@ The recommended way to install is through [PackageControl.io]().
 3. Type `Nabla - Theme` and press `ENTER`.
 
 
-To install manually, [download]() the latest release version zip file and uncompress it on your Sublime Text `Packages` folder.  
-1. Download the zip file on [`releases`]() page
+To install manually, download the latest release version zip file and uncompress it on your Sublime Text `Packages` folder.  
+1. Download the zip file on [`releases`](https://github.com/aelmoghit/Nabla-Theme/releases) page
 2. Unzip and rename the folder to `Nabla - Theme`  
 3. Menu `Preferences → Browse packages...` to open destination folder  
 4. Copy the folder into `Packages` directory
