@@ -1,0 +1,14 @@
+{
+    "name": "Nabla Widgets Light",
+    "variables": {},
+    "globals":
+    {
+        "background": "color(#fcfcfc a(0.58))",
+        "foreground": "#5c6166",
+        "caret": "#ffaa33",
+        "selection": "#036dd626",
+        "selection_border": "#036dd626",
+        "bracket_contents_options": "underline"
+    },
+    "rules": []
+}

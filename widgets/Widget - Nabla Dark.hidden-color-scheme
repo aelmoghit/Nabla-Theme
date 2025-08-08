@@ -1,0 +1,14 @@
+{
+    "name": "Nabla Widgets Dark",
+    "variables": {},
+    "globals":
+    {
+        "background": "#242936",
+        "foreground": "#cccac2",
+        "caret": "#ffcc66",
+        "selection": "#3388ff40",
+        "selection_border": "#3388ff40",
+        "bracket_contents_options": "underline"
+    },
+    "rules": []
+}

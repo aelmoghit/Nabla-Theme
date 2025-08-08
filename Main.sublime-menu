@@ -1,0 +1,40 @@
+[
+	{
+		"id": "preferences",
+		"children": [
+			{
+				"caption": "Package Settings",
+				"id": "package-settings",
+				"children": [
+					{
+						"caption": "Nabla - Theme",
+						"children": [
+							{
+								"caption": "Activate Nabla Theme",
+								"command": "nabla_activate"
+							},
+							{
+								"caption": "Settings",
+								"command": "edit_settings",
+								"args": {
+									"base_file": "${packages}/Nabla - Theme/Preferences.sublime-settings",
+									"default": "{\n\t$0\n}\n"
+								}
+							},
+							{
+								"caption": "-"
+							},
+							{
+								"caption": "Changelog",
+								"command": "open_file",
+								"args": {
+									"file": "${packages}/Nabla - Theme/CHANGELOG.md"
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

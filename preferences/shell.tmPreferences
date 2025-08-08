@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+	<dict>
+		<key>scope</key>
+		<string>source.shell, source.shell.bash</string>
+		<key>settings</key>
+		<dict>
+			<key>icon</key>
+			<string>shell-light</string>
+		</dict>
+	</dict>
+</plist>

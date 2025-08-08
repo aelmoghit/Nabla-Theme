@@ -1,0 +1,7 @@
+{
+    // Recomanded settings
+    "caret_style": "phase",
+    "caret_extra_top": 1.5,
+    "caret_extra_bottom": 1.5,
+    "caret_extra_width": 1,
+}

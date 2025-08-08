@@ -1,0 +1,25 @@
+[
+	{
+		"caption": "Nabla: Activate Theme",
+		"command": "nabla_activate"
+	},
+	{
+		"caption": "Nabla: Select Color Scheme",
+		"command": "select_color_scheme"
+	},
+	{
+		"caption": "Nabla: Descover Color Scheme",
+		"command": "open_url",
+		"args": {
+			"url": "https://packagecontrol.io/browse/labels/color%20scheme"
+		}
+	},
+	{
+		"caption": "Nabla: Settings",
+		"command": "edit_settings",
+		"args": {
+			"base_file": "${packages}/Nabla - Theme/Preferences.sublime-settings",
+			"default": "{\n\t$0\n}\n"
+		}
+	}
+]
