@@ -1,0 +1,7 @@
+# python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# misc
+.DS_Store
