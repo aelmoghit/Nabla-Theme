@@ -1,6 +1,6 @@
 # Nabla Theme Changelog
 
-## [v0.4.0] - 2025-08-08
+## [v0.4.0] - 2025-08-17
 ### **NEW:**
 -   Add `Nabla` commands.
 -   Add _AutoSet ColorScheme Background_, Dark/Light Theme.
