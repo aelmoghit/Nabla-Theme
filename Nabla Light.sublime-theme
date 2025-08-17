@@ -161,14 +161,14 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/tree-highlight.png",
+            "layer0.texture": "Nabla Theme/textures/sidebar/tree-highlight.png",
             "layer0.tint": "#56728f00",
             "layer0.inner_margin": [
                 8,
                 4
             ],
             "layer0.opacity": 1,
-            "layer1.texture": "Nabla - Theme/textures/sidebar/tree-highlight-border.png",
+            "layer1.texture": "Nabla Theme/textures/sidebar/tree-highlight-border.png",
             "layer1.tint": "#56728f1f",
             "layer1.inner_margin": [
                 8,
@@ -630,7 +630,7 @@
             "class": "close_button",
             "content_margin": 7,
             "layer0.opacity": 0,
-            "layer0.texture": "Nabla - Theme/textures/sidebar/open-file-x.png",
+            "layer0.texture": "Nabla Theme/textures/sidebar/open-file-x.png",
             "layer0.inner_margin": 7
         },
         {
@@ -656,7 +656,7 @@
                 "dirty"
             ],
             "layer0.opacity": 0,
-            "layer0.texture": "Nabla - Theme/textures/sidebar/open-file-dirty.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/open-file-dirty.png"
         },
         {
             "class": "close_button",
@@ -689,7 +689,7 @@
                 "speed": 4,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/open-file-x.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/open-file-x.png"
         },
         {
             "class": "close_button",
@@ -774,7 +774,7 @@
                 8
             ],
             "layer0.tint": "#5D6C79",
-            "layer0.texture": "Nabla - Theme/textures/sidebar/disclosure-closed.png",
+            "layer0.texture": "Nabla Theme/textures/sidebar/disclosure-closed.png",
             "layer0.inner_margin": 0
         },
         {
@@ -879,7 +879,7 @@
             "attributes": [
                 "expanded"
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/disclosure-opened.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/disclosure-opened.png"
         },
         {
             "class": "icon_folder",
@@ -897,7 +897,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "semiopaque"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed-semiopaque.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed-semiopaque.png"
         },
         {
             "class": "icon_folder",
@@ -909,7 +909,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "solid"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed-solid.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed-solid.png"
         },
         {
             "class": "icon_folder",
@@ -921,7 +921,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "outline"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed.png"
         },
         {
             "class": "icon_folder",
@@ -941,7 +941,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-opened-semiopaque.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-opened-semiopaque.png"
         },
         {
             "class": "icon_folder",
@@ -961,7 +961,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-opened-solid.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-opened-solid.png"
         },
         {
             "class": "icon_folder",
@@ -981,7 +981,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-opened.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-opened.png"
         },
         {
             "class": "icon_folder",
@@ -1133,7 +1133,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "semiopaque"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-opened-semiopaque.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-opened-semiopaque.png"
         },
         {
             "class": "icon_folder_loading",
@@ -1145,7 +1145,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "solid"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed-solid.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed-solid.png"
         },
         {
             "class": "icon_folder_loading",
@@ -1157,7 +1157,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "outline"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed.png"
         },
         {
             "class": "icon_folder_loading",
@@ -1166,7 +1166,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "semiopaque"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-opened-semiopaque-square.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-opened-semiopaque-square.png"
         },
         {
             "class": "icon_folder_loading",
@@ -1175,7 +1175,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "solid"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed-solid-square.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed-solid-square.png"
         },
         {
             "class": "icon_folder_loading",
@@ -1184,7 +1184,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "outline"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-closed-square.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-closed-square.png"
         },
         {
             "class": "icon_folder_loading",
@@ -1194,30 +1194,30 @@
             "content_margin": 8,
             "layer1.texture": {
                 "keyframes": [
-                    "Nabla - Theme/textures/sidebar/folder-loading-01.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-02.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-03.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-04.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-05.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-06.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-07.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-08.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-09.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-10.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-11.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-12.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-13.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-14.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-15.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-16.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-17.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-18.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-19.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-20.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-21.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-22.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-23.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-24.png"
+                    "Nabla Theme/textures/sidebar/folder-loading-01.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-02.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-03.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-04.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-05.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-06.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-07.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-08.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-09.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-10.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-11.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-12.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-13.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-14.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-15.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-16.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-17.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-18.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-19.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-20.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-21.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-22.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-23.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-24.png"
                 ],
                 "loop": true,
                 "frame_time": 0.22
@@ -1232,11 +1232,11 @@
             "content_margin": 8,
             "layer1.texture": {
                 "keyframes": [
-                    "Nabla - Theme/textures/sidebar/folder-loading-circle-01.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-circle-02.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-circle-03.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-circle-04.png",
-                    "Nabla - Theme/textures/sidebar/folder-loading-circle-05.png"
+                    "Nabla Theme/textures/sidebar/folder-loading-circle-01.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-circle-02.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-circle-03.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-circle-04.png",
+                    "Nabla Theme/textures/sidebar/folder-loading-circle-05.png"
                 ],
                 "loop": true,
                 "frame_time": 0.22
@@ -1420,7 +1420,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "semiopaque"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-dup-semiopaque.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-dup-semiopaque.png"
         },
         {
             "class": "icon_folder_dup",
@@ -1432,7 +1432,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "solid"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-dup-solid.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-dup-solid.png"
         },
         {
             "class": "icon_folder_dup",
@@ -1444,7 +1444,7 @@
                 "show_sidebar_icons": true,
                 "folder_icon_style": "outline"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/folder-dup.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/folder-dup.png"
         },
         {
             "class": "icon_folder_dup",
@@ -1800,7 +1800,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-ignored.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-ignored.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1815,7 +1815,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-untracked.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-untracked.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1830,7 +1830,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-modified.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-modified.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1845,7 +1845,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-missing.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-missing.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1860,7 +1860,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-added.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-added.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1875,7 +1875,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-staged.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-staged.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1890,7 +1890,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-deleted.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-deleted.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1905,7 +1905,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-unmerged.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-unmerged.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1920,7 +1920,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-ignored-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-ignored-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1935,7 +1935,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-untracked-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-untracked-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1950,7 +1950,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-modified-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-modified-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1965,7 +1965,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-missing-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-missing-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1980,7 +1980,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-added-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-added-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -1995,7 +1995,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-staged-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-staged-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -2010,7 +2010,7 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-deleted-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-deleted-icon.png"
         },
         {
             "class": "vcs_status_badge",
@@ -2025,14 +2025,14 @@
                     ]
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-unmerged-icon.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-unmerged-icon.png"
         },
         {
             "class": "vcs_status_badge",
             "settings": {
                 "git_status_badge_style": "circle"
             },
-            "layer0.texture": "Nabla - Theme/textures/sidebar/status-circle.png"
+            "layer0.texture": "Nabla Theme/textures/sidebar/status-circle.png"
         },
         {
             "class": "vcs_status_badge",
@@ -2587,16 +2587,16 @@
             "settings": {
                 "light_theme_style": "mix"
             },
-            "layer0.texture": "Nabla - Theme/textures/tabs/tab-mix.png",
-            "layer1.texture": "Nabla - Theme/textures/tabs/tab-mix.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/tab-mix.png",
+            "layer1.texture": "Nabla Theme/textures/tabs/tab-mix.png"
         },
         {
             "class": "tab_control",
             "settings": {
                 "light_theme_style": "digital"
             },
-            "layer0.texture": "Nabla - Theme/textures/tabs/tab-digital.png",
-            "layer1.texture": "Nabla - Theme/textures/tabs/tab-digital.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/tab-digital.png",
+            "layer1.texture": "Nabla Theme/textures/tabs/tab-digital.png"
         },
         {
             "class": "tab_control",
@@ -2650,7 +2650,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2668,7 +2668,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-left.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-left.png"
         },
         {
             "class": "tab_control",
@@ -2686,7 +2686,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-right.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-right.png"
         },
         {
             "class": "tab_control",
@@ -2699,7 +2699,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-on-left.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-on-left.png"
         },
         {
             "class": "tab_control",
@@ -2713,7 +2713,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-to-left.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-to-left.png"
         },
         {
             "class": "tab_control",
@@ -2727,7 +2727,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-to-left.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-to-left.png"
         },
         {
             "class": "tab_control",
@@ -2742,7 +2742,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-on-left.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-on-left.png"
         },
         {
             "class": "tab_control",
@@ -2755,7 +2755,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-on-right.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-on-right.png"
         },
         {
             "class": "tab_control",
@@ -2768,7 +2768,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-on-right.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-on-right.png"
         },
         {
             "class": "tab_control",
@@ -2782,7 +2782,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-right.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-right.png"
         },
         {
             "class": "tab_control",
@@ -2796,7 +2796,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-to-right.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-to-right.png"
         },
         {
             "class": "tab_control",
@@ -2810,7 +2810,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider-to-right.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider-to-right.png"
         },
         {
             "class": "tab_control",
@@ -2848,7 +2848,7 @@
                 "target": 0,
                 "speed": 5
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2876,7 +2876,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2892,7 +2892,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2908,7 +2908,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2924,7 +2924,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2972,7 +2972,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -2988,7 +2988,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -3004,7 +3004,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -3020,7 +3020,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer3.texture": "Nabla - Theme/textures/tabs/tab-divider.png"
+            "layer3.texture": "Nabla Theme/textures/tabs/tab-divider.png"
         },
         {
             "class": "tab_control",
@@ -3292,7 +3292,7 @@
                 "dirty"
             ],
             "layer2.opacity": 1,
-            "layer2.texture": "Nabla - Theme/textures/tabs/tab-modified-round-bottom.png"
+            "layer2.texture": "Nabla Theme/textures/tabs/tab-modified-round-bottom.png"
         },
         {
             "class": "tab_control",
@@ -3304,7 +3304,7 @@
                 "dirty"
             ],
             "layer2.opacity": 1,
-            "layer2.texture": "Nabla - Theme/textures/tabs/tab-modified-8va-bottom.png"
+            "layer2.texture": "Nabla Theme/textures/tabs/tab-modified-8va-bottom.png"
         },
         {
             "class": "tab_control",
@@ -3325,7 +3325,7 @@
                 "highlight_modified_tabs": true,
                 "tabset_background": true
             },
-            "layer2.texture": "Nabla - Theme/textures/tabs/tab-modified-round-bottom.png",
+            "layer2.texture": "Nabla Theme/textures/tabs/tab-modified-round-bottom.png",
             "layer2.inner_margin": [
                 22,
                 16
@@ -3340,7 +3340,7 @@
                 "highlight_modified_tabs": true,
                 "tabset_background": true
             },
-            "layer2.texture": "Nabla - Theme/textures/tabs/tab-modified-do-digital-8va-bottom.png",
+            "layer2.texture": "Nabla Theme/textures/tabs/tab-modified-do-digital-8va-bottom.png",
             "layer2.inner_margin": [
                 22,
                 16
@@ -3798,7 +3798,7 @@
             ],
             "layer0.opacity": 0,
             "layer1.tint": "#5D6C79",
-            "layer1.texture": "Nabla - Theme/textures/tabs/tab-x.png"
+            "layer1.texture": "Nabla Theme/textures/tabs/tab-x.png"
         },
         {
             "class": "tab_close_button",
@@ -4006,7 +4006,7 @@
                 "speed": 4,
                 "interpolation": "smoothstep"
             },
-            "layer1.texture": "Nabla - Theme/textures/tabs/tab-x.png"
+            "layer1.texture": "Nabla Theme/textures/tabs/tab-x.png"
         },
         {
             "class": "tab_close_button",
@@ -4253,7 +4253,7 @@
             "attributes": [
                 "hover"
             ],
-            "layer0.texture": "Nabla - Theme/textures/tabs/tab-x-circle.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/tab-x-circle.png"
         },
         {
             "class": "tab_close_button",
@@ -4269,7 +4269,7 @@
                 }
             ],
             "layer1.tint": "#9B9B9B",
-            "layer1.texture": "Nabla - Theme/textures/tabs/tab-dirty.png"
+            "layer1.texture": "Nabla Theme/textures/tabs/tab-dirty.png"
         },
         {
             "class": "tab_close_button",
@@ -4609,8 +4609,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/tabs/scroll-tabs-button-round-left.png",
-            "layer2.texture": "Nabla - Theme/textures/tabs/scroll-tabs-button-chevron-left.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/scroll-tabs-button-round-left.png",
+            "layer2.texture": "Nabla Theme/textures/tabs/scroll-tabs-button-chevron-left.png"
         },
         {
             "class": "scroll_tabs_left_button",
@@ -4711,8 +4711,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/tabs/scroll-tabs-button-round-right.png",
-            "layer2.texture": "Nabla - Theme/textures/tabs/scroll-tabs-button-chevron-right.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/scroll-tabs-button-round-right.png",
+            "layer2.texture": "Nabla Theme/textures/tabs/scroll-tabs-button-chevron-right.png"
         },
         {
             "class": "scroll_tabs_right_button",
@@ -4816,8 +4816,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/tabs/new-tab-dropdown-button-round.png",
-            "layer2.texture": "Nabla - Theme/textures/tabs/new-tab-button.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/new-tab-dropdown-button-round.png",
+            "layer2.texture": "Nabla Theme/textures/tabs/new-tab-button.png"
         },
         {
             "class": "new_tab_button",
@@ -4916,8 +4916,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/tabs/new-tab-dropdown-button-round.png",
-            "layer2.texture": "Nabla - Theme/textures/tabs/show-tabs-dropdown-button.png"
+            "layer0.texture": "Nabla Theme/textures/tabs/new-tab-dropdown-button-round.png",
+            "layer2.texture": "Nabla Theme/textures/tabs/show-tabs-dropdown-button.png"
         },
         {
             "class": "show_tabs_dropdown_button",
@@ -5011,9 +5011,9 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/quick-panel/overlay-shadow.png",
-            "layer1.texture": "Nabla - Theme/textures/quick-panel/overlay-border.png",
-            "layer2.texture": "Nabla - Theme/textures/quick-panel/overlay-bg.png"
+            "layer0.texture": "Nabla Theme/textures/quick-panel/overlay-shadow.png",
+            "layer1.texture": "Nabla Theme/textures/quick-panel/overlay-border.png",
+            "layer2.texture": "Nabla Theme/textures/quick-panel/overlay-bg.png"
         },
         {
             "class": "overlay_control",
@@ -5066,14 +5066,14 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/quick-panel/tree-highlight.png",
+            "layer0.texture": "Nabla Theme/textures/quick-panel/tree-highlight.png",
             "layer0.tint": "#56728f1f",
             "layer0.inner_margin": [
                 8,
                 4
             ],
             "layer0.opacity": 0,
-            "layer1.texture": "Nabla - Theme/textures/quick-panel/tree-highlight-border.png",
+            "layer1.texture": "Nabla Theme/textures/quick-panel/tree-highlight-border.png",
             "layer1.tint": "#56728f1f",
             "layer1.inner_margin": [
                 8,
@@ -5112,14 +5112,14 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/quick-panel/tree-highlight.png",
+            "layer0.texture": "Nabla Theme/textures/quick-panel/tree-highlight.png",
             "layer0.tint": "#56728f1f",
             "layer0.inner_margin": [
                 8,
                 4
             ],
             "layer0.opacity": 0,
-            "layer1.texture": "Nabla - Theme/textures/quick-panel/tree-highlight-border.png",
+            "layer1.texture": "Nabla Theme/textures/quick-panel/tree-highlight-border.png",
             "layer1.tint": "#56728f1f",
             "layer1.inner_margin": [
                 8,
@@ -5316,9 +5316,9 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/quick-panel/kind-bg.png",
-            "layer1.texture": "Nabla - Theme/textures/quick-panel/kind-bg.png",
-            "layer2.texture": "Nabla - Theme/textures/quick-panel/kind-border.png"
+            "layer0.texture": "Nabla Theme/textures/quick-panel/kind-bg.png",
+            "layer1.texture": "Nabla Theme/textures/quick-panel/kind-bg.png",
+            "layer2.texture": "Nabla Theme/textures/quick-panel/kind-border.png"
         },
         {
             "class": "kind_label",
@@ -5369,21 +5369,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_function.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_function.png"
         },
         {
             "class": "kind_container kind_function",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_function.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_function.png"
         },
         {
             "class": "kind_container kind_function",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_function.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_function.png"
         },
         {
             "class": "kind_label",
@@ -5434,21 +5434,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_keyword.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_keyword.png"
         },
         {
             "class": "kind_container kind_keyword",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_keyword.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_keyword.png"
         },
         {
             "class": "kind_container kind_keyword",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_keyword.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_keyword.png"
         },
         {
             "class": "kind_label",
@@ -5499,21 +5499,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_markup.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_markup.png"
         },
         {
             "class": "kind_container kind_markup",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_markup.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_markup.png"
         },
         {
             "class": "kind_container kind_markup",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_markup.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_markup.png"
         },
         {
             "class": "kind_label",
@@ -5564,21 +5564,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_namespace.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_namespace.png"
         },
         {
             "class": "kind_container kind_namespace",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_namespace.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_namespace.png"
         },
         {
             "class": "kind_container kind_namespace",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_namespace.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_namespace.png"
         },
         {
             "class": "kind_label",
@@ -5629,21 +5629,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_navigation.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_navigation.png"
         },
         {
             "class": "kind_container kind_navigation",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_navigation.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_navigation.png"
         },
         {
             "class": "kind_container kind_navigation",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_navigation.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_navigation.png"
         },
         {
             "class": "kind_label",
@@ -5694,21 +5694,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_snippet.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_snippet.png"
         },
         {
             "class": "kind_container kind_snippet",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_snippet.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_snippet.png"
         },
         {
             "class": "kind_container kind_snippet",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_snippet.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_snippet.png"
         },
         {
             "class": "kind_label",
@@ -5759,21 +5759,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_type.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_type.png"
         },
         {
             "class": "kind_container kind_type",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_type.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_type.png"
         },
         {
             "class": "kind_container kind_type",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_type.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_type.png"
         },
         {
             "class": "kind_label",
@@ -5824,21 +5824,21 @@
             "settings": {
                 "kind_icons_style": "octicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/octicons/kind_variable.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/octicons/kind_variable.png"
         },
         {
             "class": "kind_container kind_variable",
             "settings": {
                 "kind_icons_style": "gitlab"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/gitlab/kind_variable.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/gitlab/kind_variable.png"
         },
         {
             "class": "kind_container kind_variable",
             "settings": {
                 "kind_icons_style": "codicons"
             },
-            "layer1.texture": "Nabla - Theme/textures/kind-icons/codicons/kind_variable.png"
+            "layer1.texture": "Nabla Theme/textures/kind-icons/codicons/kind_variable.png"
         },
         {
             "class": "kind_label",
@@ -7824,7 +7824,7 @@
         },
         {
             "class": "text_area_control",
-            "deleted_line_texture": "Nabla - Theme/textures/views/deleted-line-indicator.png"
+            "deleted_line_texture": "Nabla Theme/textures/views/deleted-line-indicator.png"
         },
         {
             "class": "grid_layout_control",
@@ -7901,7 +7901,7 @@
                 "speed": 4,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/views/fold-closed.png",
+            "layer0.texture": "Nabla Theme/textures/views/fold-closed.png",
             "layer0.inner_margin": [
                 0,
                 0,
@@ -7937,7 +7937,7 @@
             "attributes": [
                 "expanded"
             ],
-            "layer0.texture": "Nabla - Theme/textures/views/fold-opened.png"
+            "layer0.texture": "Nabla Theme/textures/views/fold-opened.png"
         },
         {
             "class": "fold_button_control",
@@ -7953,7 +7953,7 @@
         },
         {
             "class": "popup_shadow",
-            "layer0.texture": "Nabla - Theme/textures/views/popup-shadow.png",
+            "layer0.texture": "Nabla Theme/textures/views/popup-shadow.png",
             "layer0.inner_margin": [
                 14,
                 11,
@@ -7963,7 +7963,7 @@
             "layer0.opacity": 1,
             "layer0.tint": "#0000004d",
             "layer0.draw_center": false,
-            "layer1.texture": "Nabla - Theme/textures/views/popup-border.png",
+            "layer1.texture": "Nabla Theme/textures/views/popup-border.png",
             "layer1.inner_margin": [
                 14,
                 11,
@@ -7994,7 +7994,7 @@
         },
         {
             "class": "popup_control",
-            "layer0.texture": "Nabla - Theme/textures/views/popup-bg.png",
+            "layer0.texture": "Nabla Theme/textures/views/popup-bg.png",
             "layer0.inner_margin": [
                 4,
                 4,
@@ -8028,7 +8028,7 @@
                 "speed": 4,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/views/annotation-x.png"
+            "layer0.texture": "Nabla Theme/textures/views/annotation-x.png"
         },
         {
             "class": "annotation_close_button",
@@ -8069,14 +8069,14 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/auto-complete/tree-highlight.png",
+            "layer0.texture": "Nabla Theme/textures/auto-complete/tree-highlight.png",
             "layer0.tint": "#63759926",
             "layer0.inner_margin": [
                 8,
                 4
             ],
             "layer0.opacity": 0,
-            "layer1.texture": "Nabla - Theme/textures/auto-complete/tree-highlight-border.png",
+            "layer1.texture": "Nabla Theme/textures/auto-complete/tree-highlight-border.png",
             "layer1.tint": "#63759926",
             "layer1.inner_margin": [
                 8,
@@ -8525,7 +8525,7 @@
             ],
             "layer0.opacity": 0,
             "layer1.tint": "#5D6C79",
-            "layer1.texture": "Nabla - Theme/textures/panels/panel-x.png"
+            "layer1.texture": "Nabla Theme/textures/panels/panel-x.png"
         },
         {
             "class": "panel_close_button",
@@ -8593,7 +8593,7 @@
                     "mix"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/panels/panel-x-circle.png"
+            "layer0.texture": "Nabla Theme/textures/panels/panel-x-circle.png"
         },
         {
             "class": "status_bar",
@@ -8625,7 +8625,7 @@
             "class": "sidebar_button_control",
             "content_margin": 11,
             "layer0.tint": "color(#000000 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/status-bar/sidebar-button.png"
+            "layer0.texture": "Nabla Theme/textures/status-bar/sidebar-button.png"
         },
         {
             "class": "sidebar_button_control",
@@ -8634,7 +8634,7 @@
             },
             "content_margin": 11,
             "layer0.tint": "color(#000000 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/status-bar/sidebar-button-right.png"
+            "layer0.texture": "Nabla Theme/textures/status-bar/sidebar-button-right.png"
         },
         {
             "class": "sidebar_button_control",
@@ -8733,7 +8733,7 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/status-bar/vcs-branch-icon.png"
+            "layer0.texture": "Nabla Theme/textures/status-bar/vcs-branch-icon.png"
         },
         {
             "class": "vcs_branch_icon",
@@ -8834,7 +8834,7 @@
                     "mix"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/dialogs/progress-control-round.png"
+            "layer0.texture": "Nabla Theme/textures/dialogs/progress-control-round.png"
         },
         {
             "class": "progress_gauge_control",
@@ -8849,7 +8849,7 @@
                     "mix"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/dialogs/progress-control-round.png"
+            "layer0.texture": "Nabla Theme/textures/dialogs/progress-control-round.png"
         },
         {
             "class": "progress_gauge_control",
@@ -8999,7 +8999,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-track-vert.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-track-vert.png",
             "layer0.inner_margin": 3,
             "layer1.opacity": 0
         },
@@ -9014,7 +9014,7 @@
                 "speed": 5,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-track-horiz.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-track-horiz.png",
             "layer0.inner_margin": 3,
             "layer1.opacity": 0
         },
@@ -9050,7 +9050,7 @@
                 "speed": 1,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-track-vert-hover.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-track-vert-hover.png",
             "layer0.inner_margin": 3,
             "layer1.opacity": {
                 "target": 1,
@@ -9077,7 +9077,7 @@
                 "speed": 1,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-track-horiz-hover.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-track-horiz-hover.png",
             "layer0.inner_margin": 3,
             "layer1.opacity": {
                 "target": 1,
@@ -9162,7 +9162,7 @@
                 "speed": 1,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-track-vert-hover.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-track-vert-hover.png",
             "layer0.inner_margin": 5,
             "layer1.opacity": {
                 "target": 1,
@@ -9191,7 +9191,7 @@
                 "speed": 1,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-track-vert-hover.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-track-vert-hover.png",
             "layer0.inner_margin": 5,
             "layer1.opacity": {
                 "target": 1,
@@ -9319,7 +9319,7 @@
             "attributes": [
                 "!horizontal"
             ],
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-bar-vert-mix.png"
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-bar-vert-mix.png"
         },
         {
             "class": "puck_control",
@@ -9329,7 +9329,7 @@
             "attributes": [
                 "horizontal"
             ],
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-bar-horiz-mix.png"
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-bar-horiz-mix.png"
         },
         {
             "class": "puck_control",
@@ -9339,7 +9339,7 @@
             "attributes": [
                 "!horizontal"
             ],
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-bar-vert-round.png"
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-bar-vert-round.png"
         },
         {
             "class": "puck_control",
@@ -9349,7 +9349,7 @@
             "attributes": [
                 "horizontal"
             ],
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-bar-horiz-round.png"
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-bar-horiz-round.png"
         },
         {
             "class": "puck_control",
@@ -9547,7 +9547,7 @@
                 "speed": 1,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-bar-vert-round.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-bar-vert-round.png",
             "layer0.inner_margin": 5
         },
         {
@@ -9567,7 +9567,7 @@
                 "speed": 1,
                 "interpolation": "smoothstep"
             },
-            "layer0.texture": "Nabla - Theme/textures/scroll-bars/scroll-bar-horiz-round.png",
+            "layer0.texture": "Nabla Theme/textures/scroll-bars/scroll-bar-horiz-round.png",
             "layer0.inner_margin": 5
         },
         {
@@ -9775,8 +9775,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/inputs/input-bg-panel-round.png",
-            "layer1.texture": "Nabla - Theme/textures/inputs/input-bg-panel-round-border.png"
+            "layer0.texture": "Nabla Theme/textures/inputs/input-bg-panel-round.png",
+            "layer1.texture": "Nabla Theme/textures/inputs/input-bg-panel-round-border.png"
         },
         {
             "class": "text_line_control",
@@ -9791,8 +9791,8 @@
                     "class": "panel_control console_panel"
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/inputs/input-bg-console-round.png",
-            "layer1.texture": "Nabla - Theme/textures/inputs/input-bg-console-round-border.png"
+            "layer0.texture": "Nabla Theme/textures/inputs/input-bg-console-round.png",
+            "layer1.texture": "Nabla Theme/textures/inputs/input-bg-console-round-border.png"
         },
         {
             "class": "text_line_control",
@@ -9807,7 +9807,7 @@
             "font.size": 13,
             "content_margin": 4,
             "layer0.opacity": 1,
-            "layer0.texture": "Nabla - Theme/textures/inputs/input-bg-panel.png",
+            "layer0.texture": "Nabla Theme/textures/inputs/input-bg-panel.png",
             "layer0.inner_margin": 4,
             "layer1.opacity": 0,
             "layer1.texture": ""
@@ -9850,7 +9850,7 @@
             "font.size": 13,
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-find-replace.png"
+            "layer2.texture": "Nabla Theme/textures/inputs/input-find-replace.png"
         },
         {
             "class": "text_line_control",
@@ -9865,7 +9865,7 @@
             "font.size": 13,
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-find-replace.png"
+            "layer2.texture": "Nabla Theme/textures/inputs/input-find-replace.png"
         },
         {
             "class": "text_line_control",
@@ -9880,7 +9880,7 @@
             "font.size": 13,
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-find-replace.png"
+            "layer2.texture": "Nabla Theme/textures/inputs/input-find-replace.png"
         },
         {
             "class": "text_line_control",
@@ -9901,7 +9901,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-console.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-console.png",
             "layer2.inner_margin": [
                 33,
                 5,
@@ -9955,7 +9955,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-search.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-search.png",
             "layer2.inner_margin": [
                 41,
                 0,
@@ -9981,7 +9981,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-search.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-search.png",
             "layer2.inner_margin": [
                 41,
                 0,
@@ -10007,7 +10007,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-symbol.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-symbol.png",
             "layer2.inner_margin": [
                 41,
                 0,
@@ -10033,7 +10033,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-prompt.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-prompt.png",
             "layer2.inner_margin": [
                 41,
                 0,
@@ -10059,7 +10059,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-word.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-word.png",
             "layer2.inner_margin": [
                 41,
                 0,
@@ -10085,7 +10085,7 @@
             ],
             "layer2.tint": "#5D6C79",
             "layer2.opacity": 0.8,
-            "layer2.texture": "Nabla - Theme/textures/inputs/input-command.png",
+            "layer2.texture": "Nabla Theme/textures/inputs/input-command.png",
             "layer2.inner_margin": [
                 41,
                 0,
@@ -10106,14 +10106,14 @@
                     "class": "overlay_control"
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/inputs/input-bg.png",
+            "layer0.texture": "Nabla Theme/textures/inputs/input-bg.png",
             "layer0.opacity": 1,
             "layer0.inner_margin": [
                 10,
                 8
             ],
             "layer0.tint": "#ffffff",
-            "layer1.texture": "Nabla - Theme/textures/inputs/input-border.png",
+            "layer1.texture": "Nabla Theme/textures/inputs/input-border.png",
             "layer1.opacity": 1,
             "layer1.inner_margin": [
                 10,
@@ -10272,14 +10272,14 @@
                     "class": "switch_project_window"
                 }
             ],
-            "layer0.texture": "Nabla - Theme/textures/inputs/input-bg.png",
+            "layer0.texture": "Nabla Theme/textures/inputs/input-bg.png",
             "layer0.opacity": 1,
             "layer0.inner_margin": [
                 10,
                 8
             ],
             "layer0.tint": "#ffffff",
-            "layer1.texture": "Nabla - Theme/textures/inputs/input-border.png",
+            "layer1.texture": "Nabla Theme/textures/inputs/input-border.png",
             "layer1.opacity": 1,
             "layer1.inner_margin": [
                 10,
@@ -10400,7 +10400,7 @@
             "content_margin": 6,
             "layer0.tint": "#5D6C79",
             "layer0.opacity": 1,
-            "layer0.texture": "Nabla - Theme/textures/inputs/input-dropdown.png"
+            "layer0.texture": "Nabla Theme/textures/inputs/input-dropdown.png"
         },
         {
             "class": "dropdown_button_control",
@@ -10511,8 +10511,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/buttons/button-control-bg-round.png",
-            "layer1.texture": "Nabla - Theme/textures/buttons/button-control-bg-round-border.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/button-control-bg-round.png",
+            "layer1.texture": "Nabla Theme/textures/buttons/button-control-bg-round-border.png"
         },
         {
             "class": "button_control",
@@ -10699,8 +10699,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-single.png",
-            "layer1.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-single-border.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-single.png",
+            "layer1.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-single-border.png"
         },
         {
             "class": "icon_button_control",
@@ -10711,8 +10711,8 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-middle.png",
-            "layer1.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-middle-border.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-middle.png",
+            "layer1.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-middle-border.png"
         },
         {
             "class": "icon_button_control",
@@ -10726,8 +10726,8 @@
             "attributes": [
                 "left"
             ],
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-left.png",
-            "layer1.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-left-border.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-left.png",
+            "layer1.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-left-border.png"
         },
         {
             "class": "icon_button_control",
@@ -10741,8 +10741,8 @@
             "attributes": [
                 "right"
             ],
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-right.png",
-            "layer1.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-right-border.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-right.png",
+            "layer1.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-right-border.png"
         },
         {
             "class": "icon_button_control",
@@ -10757,8 +10757,8 @@
                 "left",
                 "right"
             ],
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-single.png",
-            "layer1.texture": "Nabla - Theme/textures/buttons/icon-button-control-bg-round-single-border.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-single.png",
+            "layer1.texture": "Nabla Theme/textures/buttons/icon-button-control-bg-round-single-border.png"
         },
         {
             "class": "icon_button_control",
@@ -10959,7 +10959,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-regex.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-regex.png"
         },
         {
             "class": "icon_regex",
@@ -11258,7 +11258,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-case-sensitive.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-case-sensitive.png"
         },
         {
             "class": "icon_case",
@@ -11557,7 +11557,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-whole-word.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-whole-word.png"
         },
         {
             "class": "icon_whole_word",
@@ -11856,7 +11856,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-wrap.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-wrap.png"
         },
         {
             "class": "icon_wrap",
@@ -12155,7 +12155,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-in-selection.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-in-selection.png"
         },
         {
             "class": "icon_in_selection",
@@ -12454,7 +12454,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-highlight.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-highlight.png"
         },
         {
             "class": "icon_highlight",
@@ -12753,7 +12753,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-preserve-case.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-preserve-case.png"
         },
         {
             "class": "icon_preserve_case",
@@ -13052,7 +13052,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-context.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-context.png"
         },
         {
             "class": "icon_context",
@@ -13351,7 +13351,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-buffer.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-buffer.png"
         },
         {
             "class": "icon_use_buffer",
@@ -13650,7 +13650,7 @@
                 9
             ],
             "layer0.tint": "color(#161818 a(0.6))",
-            "layer0.texture": "Nabla - Theme/textures/buttons/icon-gitignore.png"
+            "layer0.texture": "Nabla Theme/textures/buttons/icon-gitignore.png"
         },
         {
             "class": "icon_use_gitignore",
@@ -14214,18 +14214,18 @@
                     "digital"
                 ]
             },
-            "layer0.texture": "Nabla - Theme/textures/checkbox/checkbox-round-bg.png",
-            "layer1.texture": "Nabla - Theme/textures/checkbox/checkbox-round-bg-border.png",
-            "layer2.texture": "Nabla - Theme/textures/checkbox/checkbox-check.png"
+            "layer0.texture": "Nabla Theme/textures/checkbox/checkbox-round-bg.png",
+            "layer1.texture": "Nabla Theme/textures/checkbox/checkbox-round-bg-border.png",
+            "layer2.texture": "Nabla Theme/textures/checkbox/checkbox-check.png"
         },
         {
             "class": "checkbox_box_control",
             "settings": {
                 "light_theme_style": "analog"
             },
-            "layer0.texture": "Nabla - Theme/textures/checkbox/checkbox-square-bg.png",
-            "layer1.texture": "Nabla - Theme/textures/checkbox/checkbox-square-bg-border.png",
-            "layer2.texture": "Nabla - Theme/textures/checkbox/checkbox-check.png"
+            "layer0.texture": "Nabla Theme/textures/checkbox/checkbox-square-bg.png",
+            "layer1.texture": "Nabla Theme/textures/checkbox/checkbox-square-bg-border.png",
+            "layer2.texture": "Nabla Theme/textures/checkbox/checkbox-check.png"
         },
         {
             "class": "checkbox_box_control",
@@ -14413,13 +14413,13 @@
             ],
             "layer0.tint": "#B4B4B4",
             "layer0.opacity": 0,
-            "layer0.texture": "Nabla - Theme/textures/checkbox/radio-button-bg.png",
+            "layer0.texture": "Nabla Theme/textures/checkbox/radio-button-bg.png",
             "layer1.tint": "#B4B4B4",
             "layer1.opacity": 1,
-            "layer1.texture": "Nabla - Theme/textures/checkbox/radio-button-bg-border.png",
+            "layer1.texture": "Nabla Theme/textures/checkbox/radio-button-bg-border.png",
             "layer2.tint": "#F3EFF2",
             "layer2.opacity": 0,
-            "layer2.texture": "Nabla - Theme/textures/checkbox/radio-button-on.png"
+            "layer2.texture": "Nabla Theme/textures/checkbox/radio-button-on.png"
         },
         {
             "class": "checkbox_box_control",

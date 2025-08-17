@@ -20,15 +20,15 @@ For full theme settings and sublime text settings compatible, please take a look
 
 ## Package installation
 
-The recommended way to install is through [PackageControl.io]().  
+The recommended way to install is through [Package Control R](packages.sublimetext.io).  
 1. Command Palette `Tools → Command Palette` or `Cmd/Ctrl + Shift + P`
 2. Choose `Package Control: Install Package` 
-3. Type `Nabla - Theme` and press `ENTER`.
+3. Type `Nabla Theme` and press `ENTER`.
 
 
 To install manually, download the latest release version zip file and uncompress it on your Sublime Text `Packages` folder.  
 1. Download the zip file on [`releases`](https://github.com/aelmoghit/Nabla-Theme/releases) page
-2. Unzip and rename the folder to `Nabla - Theme`  
+2. Unzip and rename the folder to `Nabla Theme`  
 3. Menu `Preferences → Browse packages...` to open destination folder  
 4. Copy the folder into `Packages` directory
 
@@ -39,11 +39,11 @@ To install manually, download the latest release version zip file and uncompress
 To remove package using Package Control.  
 1. Command Palette `Tools → Command Palette →` or `Cmd/Ctrl + Shift + P` 
 2. Choose `Package Control: Remove Package`
-3. Click on `Nabla - Theme`
+3. Click on `Nabla Theme`
 
 To uninstall manually, go to your Sublime Text folder.  
 1. Menu `Preferences → Browse packages...`  
-2. Then delete `Nabla - Theme` inside `Packages` folder  
+2. Then delete `Nabla Theme` inside `Packages` folder  
 
 ## Activate the Theme
 
@@ -61,7 +61,7 @@ To uninstall manually, go to your Sublime Text folder.
 
 If you would like to change a few things to make your experience better, you can easily customize the theme settings:
 
-1. Menu `Preferences → Package Settings → Nabla - Theme → settings`
+1. Menu `Preferences → Package Settings → Nabla Theme → settings`
 
 Or from command palette:
 
@@ -86,9 +86,11 @@ you can use your favourite font in the user interface of the theme, just follow 
 ```
 More infos about Sublime Text theming rules can be found here: https://www.sublimetext.com/docs/themes.html.
 
-## Color Scheme:
+## Color Scheme
 
 Nabla theme offers _AutoSet Color Scheme Background_ features for dark/light themes which change background color to match the theme's color look.
+
+![AutoSet Color Scheme Background](assets/autoset_bg.gif)
 
 ## File icon 
 

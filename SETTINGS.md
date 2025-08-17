@@ -6,11 +6,11 @@
 ## Theme settings
 
 Below are theme options available and can be customize at your option.  
-- Go to menu `Sublime text > Preferences > Settings > Package Settings > Nabla - Theme > Settings`. It is the same if you go to `Packages/User/Preferences.sublime-settings`  
+- Go to menu `Sublime text > Preferences > Settings > Package Settings > Nabla Theme > Settings`. It is the same if you go to `Packages/User/Preferences.sublime-settings`  
 - Copy the option you want on the right window of `Preferences.sublime-settings`  
 - Save your preferences  
 
-### Nabla - Theme settings :
+### Nabla Theme settings :
 ```json title="Preferences.sublime-settings"
     // Global
 

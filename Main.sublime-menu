@@ -7,7 +7,7 @@
 				"id": "package-settings",
 				"children": [
 					{
-						"caption": "Nabla - Theme",
+						"caption": "Nabla Theme",
 						"children": [
 							{
 								"caption": "Activate Nabla Theme",
@@ -17,7 +17,7 @@
 								"caption": "Settings",
 								"command": "edit_settings",
 								"args": {
-									"base_file": "${packages}/Nabla - Theme/Preferences.sublime-settings",
+									"base_file": "${packages}/Nabla Theme/Preferences.sublime-settings",
 									"default": "{\n\t$0\n}\n"
 								}
 							},
@@ -28,7 +28,7 @@
 								"caption": "Changelog",
 								"command": "open_file",
 								"args": {
-									"file": "${packages}/Nabla - Theme/CHANGELOG.md"
+									"file": "${packages}/Nabla Theme/CHANGELOG.md"
 								}
 							}
 						]
