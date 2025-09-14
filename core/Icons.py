@@ -2,18 +2,18 @@
 Pckage Icons Installer
 """
 
-import os
+from os import path as pt
 import sublime
 
 sublime.active_window().settings().set("status_icn", False)
 
+THEME_NAME = pt.basename(pt.dirname(pt.dirname(pt.abspath(__file__))))
+PKGCTRL_SETTINGS = "Package Control.sublime-settings"
 ICONS_PACKAGE = {
     "icons1": "A File Icon",
     "icons2": "Zukan Icon Theme",
     "icons3": "FileIcons",
 }
-PKGCTRL_SETTINGS = "Package Control.sublime-settings"
-THEME_NAME = os.path.splitext(os.path.basename(os.path.dirname(__file__)))[0]
 
 MSG = """\
 <div id="afi-installer">
@@ -50,22 +50,22 @@ MSG = """\
     </style>
     <h2 style="margin-top:0px">Install Icons Package 📦</h2>
 
-    <span style="font-weight:bold">{}</span> requires 
-    <code><var>A File Icon<a href="open_url/icons1" title="more details">+</a></var></code> 
+    <span style="font-weight:bold">{}</span> requires
+    <code><var>A File Icon<a href="open_url/icons1" title="more details">+</a></var></code>
     or <code><var>Zukan Icon Theme<a href="open_url/icons2" title="more details">+</a></var></code>
-    or <code><var>FileIcons<a href="open_url/icons3" title="more details">+</a></var></code> 
+    or <code><var>FileIcons<a href="open_url/icons3" title="more details">+</a></var></code>
     package for enhanced support of the file-specific icons.
 
     <br><br>Would you like to install?
     <br><div id="packages">
-    <a href="install/icons1">A File Icon</a>  
-    <a href="install/icons2">Zukan Icon Theme</a> 
-    <a href="install/icons3">FileIcons</a> 
+    <a href="install/icons1">A File Icon</a>
+    <a href="install/icons2">Zukan Icon Theme</a>
+    <a href="install/icons3">FileIcons</a>
     </div>
     <a href="cancel" style="color:red;">Cancel</a>
 </div>
 """.format(
-    THEME_NAME.replace("-", " ").upper()
+    THEME_NAME
 )
 
 
@@ -76,12 +76,14 @@ def is_installed():
 
 
 def on_navigate(href):
+    settings = sublime.active_window().settings()
+    settings.set("justInstalled", False)
     if href.startswith("install/"):
         install(href.replace("install/", ""))
+        hide()
     if href.startswith("open_url/"):
         discover(href.replace("open_url/", ""))
     if href == "cancel":
-        hide()
         hide()
 
 
@@ -90,30 +92,45 @@ def install(pkg):
     sublime.active_window().run_command(
         "install_packages", {"packages": [ICONS_PACKAGE[pkg]]}
     )
-    hide()
 
 
 def discover(pkg):
     sublime.active_window().run_command(
-        "open_url", {"url": "https://packagecontrol.io/packages/" + ICONS_PACKAGE[pkg]}
+        "open_url", {"url": "https://packages.sublimetext.io/packages/" + ICONS_PACKAGE[pkg]}
     )
 
 
 def hide():
-    sublime.active_window().settings().set("status_icn", True)
-    sublime.active_window().active_view().hide_popup()
+    window = sublime.active_window()
+    window.settings().set("status_icn", True)
+    window.active_view().hide_popup()
+    if window.active_view().is_popup_visible():
+        window.active_view().hide_popup()
 
 
 def reload():
     status = sublime.active_window().settings().get("status_icn")
     if not status:
-        return plugin_loaded
+        return icons_package_installer
     return None
 
 def icons_package_installer():
     from package_control import events
-    
-    if events.install(THEME_NAME) and not is_installed():
+
+    settings = sublime.active_window().settings()
+
+    if events.install(THEME_NAME) or events.post_upgrade(THEME_NAME):
+        settings.set("justInstalled", True)
+        sublime.message_dialog(
+            "Nabla Theme needs to restart Sublime Text to display correctly"
+        )
+        return
+
+    if (
+        settings.has("justInstalled") and
+        settings.get("justInstalled") and
+        not is_installed()
+    ):
         window = sublime.active_window()
         view = window.active_view()
         window.focus_view(view)
