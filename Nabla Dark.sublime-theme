@@ -8676,7 +8676,10 @@
         },
         {
             "class": "dialog",
-            "content_margin": 14,
+            "content_margin": [
+                0,
+                2
+            ],
             "layer0.tint": "#242936",
             "layer0.opacity": 1
         },
@@ -9745,7 +9748,7 @@
                 }
             ],
             "content_margin": [
-                20,
+                15,
                 6
             ],
             "font.size": 15,
@@ -10065,9 +10068,7 @@
                 }
             ],
             "content_margin": [
-                24,
-                6,
-                20,
+                15,
                 6
             ],
             "font.size": 16,
@@ -10115,6 +10116,32 @@
                 8
             ],
             "layer1.tint": "#161921"
+        },
+        {
+            "class": "text_line_control",
+            "settings": [
+                "show_input_icon"
+            ],
+            "parents": [
+                {
+                    "class": "switch_project_window"
+                }
+            ],
+            "content_margin": [
+               41,
+                6,
+                10,
+                6
+            ],
+            "layer2.tint": "#B4B4B4",
+            "layer2.opacity": 0.8,
+            "layer2.texture": "Nabla Theme/textures/inputs/input-search.png",
+            "layer2.inner_margin": [
+                41,
+                0,
+                0,
+                0
+            ]
         },
         {
             "class": "text_line_control",
@@ -13470,9 +13497,87 @@
         },
         {
             "class": "title_label_control",
-            "font.size": 24,
+            "font.size": 28,
             "font.bold": true,
             "color": "#B4B4B4"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "blue"
+            },
+            "color": "#2077FB"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "purple"
+            },
+            "color": "#8D52D1"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "pink"
+            },
+            "color": "#E87191"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "red"
+            },
+            "color": "#FC5B57"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "orange"
+            },
+            "color": "#E47C48"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "yellow"
+            },
+            "color": "color(#FFC849 min-contrast(var(--background) 1.7))"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "green"
+            },
+            "color": "color(#B2E79F min-contrast(var(--background) 2.0))"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "grayscale"
+            },
+            "color": "#F0F0F7"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "grayscale"
+            },
+            "parents": [
+                {
+                    "class": "window",
+                    "attributes": [
+                        "file_light"
+                    ]
+                },
+            ],
+            "color": "#161818"
+        },
+        {
+            "class": "title_label_control",
+            "settings": {
+                "accent_color": "color-scheme"
+            },
+            "color": "var(--accent)"
         },
         {
             "class": "tool_tip_control",
@@ -13932,10 +14037,6 @@
         },
         {
             "class": "auto_complete_label",
-            "font.face": "var(font-face)"
-        },
-        {
-            "class": "auto_complete_detail_pane",
             "font.face": "var(font-face)"
         },
         {
